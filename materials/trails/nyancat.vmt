@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"trails\nyancat"
+	"$translucent" "1"
+	"$ignorez" "1"
+	"$additive" "0"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}
